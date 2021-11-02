@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @VISGHOSH
+- 👀 I’m interested in learning fancy tech
+- 🌱 I’m currently learning Devops
+- 💞️ I’m looking to collaborate on any projects or learning paths related to devops
+- 📫 How to reach me: contact at visghosh7991@outlook.com
